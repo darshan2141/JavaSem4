@@ -57,3 +57,4 @@ class mulInhe {
     obj.AllDetails();
   }
 }
+  
